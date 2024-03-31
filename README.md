@@ -1,2 +1,1 @@
-# CS helper
- This allows people to make tickets via forums.
+https://github.com/remake-network/cs-tools-backend-public
